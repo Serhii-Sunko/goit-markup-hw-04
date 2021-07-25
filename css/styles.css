@@ -400,7 +400,7 @@ body {
   padding: 16px 32px;
   margin-right: 30px;
 }
-.our-client-item {
+.clients-icon {
   fill: var(--team-social-color);
 }
 .our-clients-list:last-child {
@@ -409,7 +409,7 @@ body {
 .our-clients-list:hover {
   border-color: var(--accent-color);
 }
-.our-client-item:hover {
+.clients-icon:hover {
   fill: var(--accent-color);
 }
 /* Footer  */
